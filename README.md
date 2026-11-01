@@ -1,10 +1,10 @@
 # PortSwigger Web Security Academy Write-ups
 
-I'm learning web application security and documenting my progress here.
+I'm learning cybersecurity and documenting my progress here.
 Each write-up covers the vulnerability, how I found it with Burp Suite,
 the exploitation steps, the impact, and how to fix it.
 
-**Goal:** junior web application security / penetration testing role
+**Focus:** web application security
 **Tools:** Burp Suite, browser dev tools
 **Status:** In progress, updated weekly
 
